@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+
+}
+.conatiner{
+    text-align: center;
+}
+.heading{
+    font-weight: bold;
+    font-size: 4rem;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+#value{
+    font-weight: bold;
+    font-size: 6rem;
+    margin-left: 90px;
+    
+}
+.btn-class{
+    margin:2rem;
+    background-color: transparent;
+    letter-spacing: 2px;
+   
+
+}
+
+.i1{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    
+}
+.i2{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.i3{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
